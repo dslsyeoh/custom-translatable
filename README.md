@@ -1,1 +1,1 @@
-Simple translatable concept
+Simple custom translatable concept
