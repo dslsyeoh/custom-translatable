@@ -1,0 +1,1 @@
+Simple translatable concept
